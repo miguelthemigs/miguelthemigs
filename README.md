@@ -1,6 +1,6 @@
 # 💫 About Me:
-Computer Science student at PUC-Rio
-
+- Computer Science student at PUC-Rio
+- Software Engineer Intern at BioBD, currently working on web development with Django
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/miguel-werneck-roale-901a6b213/) 
