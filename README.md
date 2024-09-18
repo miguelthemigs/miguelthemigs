@@ -1,5 +1,6 @@
 # 💫 About Me:
 - Computer Science student
+- Currently working with Java Spring Boot
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/miguel-werneck-roale-901a6b213/) 
