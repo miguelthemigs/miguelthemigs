@@ -1,6 +1,6 @@
 # 💫 About Me:
-- Computer Science student
-- Currently working with Java Spring Boot
+- Software Engineering Student
+- Wroked with Java Spring Boot and React, Python Django, and now learning Android Development with Kotlin 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/miguel-werneck-roale-901a6b213/) 
